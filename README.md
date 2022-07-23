@@ -1,4 +1,5 @@
-### Olá, eu sou Weverton Macbado👋
+### Olá, eu sou Weverton Machado!👋
+## Formado em análise e desenvolvimento de sistemas
 
 <!--
 **wevertonadv/wevertonadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
