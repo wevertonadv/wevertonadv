@@ -1,5 +1,5 @@
-<h1>Olá, eu sou Weverton Machado!👋</h1>
- .Analista de sistema e programador <br>
+<h1>Olá, eu me chamo Weverton Machado!👋</h1>
+ .Analista de sistema, Analista de dados e programador <br>
  - 🌱 Atualmente estou desenvolvendo sites e aplicativos ...
 
 
